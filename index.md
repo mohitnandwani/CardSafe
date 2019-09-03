@@ -1,4 +1,4 @@
-# Privacy Policy
+## Privacy Policy
 ### Effective September 2019
 
 ## Quick, Plain-English Summary
