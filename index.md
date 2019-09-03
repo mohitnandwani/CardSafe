@@ -1,5 +1,5 @@
 # CardSafe
-### For Support and Feedback, Please mail at [mailto:cardsafeapp@gmail.com](cardsafeapp@gmail.com)
+### For Support and Feedback, Please mail at [cardsafeapp@gmail.com](mailto:cardsafeapp@gmail.com)
 
 ## Privacy Policy
 ### Effective September 2019
