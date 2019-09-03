@@ -1,6 +1,4 @@
-# CardSafe
-
-## Privacy Policy
+# Privacy Policy
 ### Effective September 2019
 
 ## Quick, Plain-English Summary
@@ -12,7 +10,7 @@
 
 
 ## Who are we?
-CardSafe is created by Mohit Nandwani. For any concerns, please email at [cardsafeapp@gmail.com](mailto://cardsafeapp@gmail.com).
+CardSafe is created by Mohit Nandwani. For any concerns, please email at [cardsafeapp@gmail.com](mailto:cardsafeapp@gmail.com).
 
 ## What sort of personal information is collected?
 None of your personal information is collected.
