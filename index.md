@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# CardSafe Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/mohitnandwani/CardSafe/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Effective September 2019
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Quick, Plain-English Summary
+* CardSafe requires access to your contacts to perform services like “Contacts Backup”, “Select & Backup” and “Merge Duplicates”.
+* None of your data is collected, stored or uploaded to any kind of server. All your data stays on your device and in the app locally. There’s no way CardSafe has remote access to your data.
+* CardSafe has Import Files feature (Tap Files Button then tap the “+” button on top right corner to access it). From where user can add backup files to app. For devices below iOS 11.0, iCloud Documents feature is available. By using iCloud activity feature you are bound to Apple iCloud’s Privacy policy and terms of use. 
+* For devices above iOS 11.0, Along with iCloud documents import, “Files” app support is also available. With this, user can add backup files available there. Whether it’s available locally, on iCloud or on a drive which is integrated in the “Files” app (For example Dropbox). For importing files from such drives, You automatically adhere to their privacy policy and terms of use.
+* CardSafe does not log your activity and does not collect any type of personal data.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Who are we?
+CardSafe is created by Mohit Nandwani. For any concerns, please email at cardsafeapp@gmail.com.
 
-```markdown
-Syntax highlighted code block
+## What sort of personal information is collected?
+None of your personal information is collected.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mohitnandwani/CardSafe/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## CardSafe respects your privacy and does not collected or store any personal or sensitive information. Your privacy is as much important to us as it is to you.
