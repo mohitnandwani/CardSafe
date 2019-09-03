@@ -12,7 +12,7 @@
 
 
 ## Who are we?
-CardSafe is created by Mohit Nandwani. For any concerns, please email at [mailto://cardsafeapp@gmail.com]cardsafeapp@gmail.com.
+CardSafe is created by Mohit Nandwani. For any concerns, please email at [[mailto://cardsafeapp@gmail.com|cardsafeapp@gmail.com]].
 
 ## What sort of personal information is collected?
 None of your personal information is collected.
