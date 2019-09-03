@@ -16,4 +16,4 @@ CardSafe is created by Mohit Nandwani. For any concerns, please email at cardsaf
 ## What sort of personal information is collected?
 None of your personal information is collected.
 
-## CardSafe respects your privacy and does not collecte or store any personal or sensitive information. Your privacy is as much important to us as it is to you.
+## CardSafe respects your privacy and does not collect or store any personal or sensitive information. Your privacy is as much important to us as it is to you.
