@@ -1,9 +1,8 @@
-# CardSafe
 ## For Support and Feedback, Please mail at [cardsafeapp@gmail.com](mailto:cardsafeapp@gmail.com).
-#
+
 ## Privacy Policy
 ### Effective September 2019
-#
+
 ## Quick, Plain-English Summary
 * CardSafe requires access to your contacts to perform services like “Contacts Backup”, “Select & Backup” and “Merge Duplicates”.
 
