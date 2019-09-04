@@ -1,8 +1,5 @@
 # CardSafe
 
-
-## For Support and Feedback, Please mail at [cardsafeapp@gmail.com](mailto:cardsafeapp@gmail.com).
-
 ## Your data and Privacy
 If you're looking for a privacy policy full of legalese, you won't find one here. This is because we don't collect or store your personal data. Here is a quick summary about how we store your data.
 
@@ -14,12 +11,4 @@ If you're looking for a privacy policy full of legalese, you won't find one here
 * For devices above iOS 11.0, Along with iCloud documents import, “Files” app support is also available. With this support, user can add backup files available there. Whether it’s available locally, on iCloud or on a drive which is integrated in the “Files” app (For example Dropbox). For importing files from such drives, You automatically adhere to their privacy policy and terms of use.
 * CardSafe does not log your activity and does not collect any type of personal data.
 
-## Who are we?
-
-CardSafe is created by Mohit Nandwani. For any concerns, Please email at [cardsafeapp@gmail.com](mailto:cardsafeapp@gmail.com).
-
-## What sort of personal information is collected?
-
-None of your personal information is collected.
-
-## CardSafe respects your privacy and does not collect or store any personal or sensitive information. Your privacy is as much important to us as it is to you.
+## For any concerns, support and feedback, Please mail at [cardsafeapp@gmail.com](mailto:cardsafeapp@gmail.com).
