@@ -1,5 +1,3 @@
-## CardSafe
-
 ## Your Data and Privacy
 If you're looking for a privacy policy full of legalese, you won't find one here. This is because we don't collect or store your personal data. Here is a quick summary about how we store your data.
 
