@@ -1,4 +1,4 @@
-## Your Data and Privacy
+# CardSafe Privacy Policy
 If you're looking for a privacy policy full of legalese, you won't find one here. This is because we don't collect or store your personal data. Here is a quick summary about how we store your data.
 
 ## Quick, Plain-English Summary
@@ -12,3 +12,4 @@ If you're looking for a privacy policy full of legalese, you won't find one here
 * For devices on or above iOS 11.0, Along with iCloud documents import, “Files” app support is also available. With this support, user can add backup files available there. Whether it’s available locally, on iCloud or on a drive which is integrated in the “Files” app (For example Dropbox). For importing files from such drives, You automatically adhere to their privacy policy and terms of use.
 
 ## For any concerns, support and feedback, Please mail at [cardsafeapp[at]gmail.com](mailto:cardsafeapp@gmail.com).
+## [AppStore Link](https://apps.apple.com/app/cardsafe-my-contacts-manager/id1305082613)
